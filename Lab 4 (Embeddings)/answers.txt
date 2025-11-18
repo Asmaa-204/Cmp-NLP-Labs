@@ -1,0 +1,44 @@
+
+Student 1: Shehab Khaled Roshdy Elhousieny
+Student 2: Asmaa Mohamed Abozaid Elbasiouny
+
+Q1:
+
+Represent the vocabularoy length
+
+
+Q2:
+
+Represent the embeddings size
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626821398735046
+
+Q3:
+
+Yes
+
+
+Q4:
+
+Yes, it's not high but cairo sensically appear with other countries because capitals are mentioned instead of the country but it's relatively higher than so it
+'s fine
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+The plot above plots the projected embeddings of eleven different words, these words are semantically divided into 3 groups [feelings, fossil fues, geography terms] 
+This is also depicted in the graph as each group is located close to each other and far from the other groups
+
